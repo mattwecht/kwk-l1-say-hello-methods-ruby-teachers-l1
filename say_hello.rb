@@ -5,4 +5,3 @@ end
 
 say_hello
 say_hello("Ashley")
-say_hello "ashley"
