@@ -4,3 +4,4 @@ def say_hello(name = "Kode with Klossy Scholar")
 end
 
 say_hello
+say_hello("Ashley")
