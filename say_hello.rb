@@ -4,5 +4,4 @@ def say_hello()
   puts "Hello #{name}!"
   name2 = "Matt "
   puts name2
-
 end
