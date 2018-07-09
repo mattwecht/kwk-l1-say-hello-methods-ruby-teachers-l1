@@ -5,4 +5,4 @@ def say_hello()
   name2 = "Matt "
 end
 say_hello
-
+puts name2
