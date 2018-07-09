@@ -3,6 +3,4 @@ name = sam
 def say_hello(name = "Kode with Klossy Scholar") 
   puts "Hello #{name}!"
 end
-
 say_hello
-say_hello("Ashley")
